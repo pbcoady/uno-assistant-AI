@@ -1,0 +1,1 @@
+public enum Values{Zero, One, Two, Three, Four, Five, Six, Seven, Eight, Nine, Skip, DrawTwo, Reverse, ChangeColor, DrawFour, None};
