@@ -1,6 +1,5 @@
 # UNO Assistant AI Tool
-# IMGD4100 - TermProject
-## Esteban Aranda, Coady Parker, Treksh Marwaha
+## Esteban Aranda, Parker Coady, Treksh Marwaha
 
 For convenience, the source code is attached. Do try running the project to see it in action for yourself!
 
