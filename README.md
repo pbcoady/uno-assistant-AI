@@ -4,7 +4,7 @@
 For convenience, the source code is attached. Do try running the project to see it in action for yourself!
 
 ### Running the program
-Open the project on IntelliJ, locate 'StartGame.java' and run its main function. 
+Open the project in any IDE, locate 'StartGame.java' and run its main function. 
 This will pop up the IDE's terminal which you can use to type in the inputs of the game.
 The terminal will display the program's instructions and ask the user to input
 the starting player, the user's starting hand, and the starting card on the discard pile.
